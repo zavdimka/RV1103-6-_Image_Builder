@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/python3
 import os
 
 def parse_file(file_path):
